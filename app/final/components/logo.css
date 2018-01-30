@@ -1,0 +1,13 @@
+.components-logo {
+  box-sizing: border-box;
+  padding: 15px 25px;
+  border-bottom: 1px solid #ccc;
+  background: white;
+}
+.components-logo .caption {
+  font-size: 23px;
+  text-indent: 20px;
+  display: inline-block;
+  position: absolute;
+  top: 17px;
+}
